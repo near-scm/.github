@@ -1,1 +1,2 @@
-TBD
+The Next-Generation ERAU Applied Research (NEAR) lab, located at ERAU's Daytona Beach campus is a research and development (R&D) facility supporting faculty, staff, and students.  Additionally, the lab offers consulting services for the private sector and government entities.  Our team of engineers and researchers collaborate with the aerospace and aviation industry on software engineering proof of concept, rapid prototyping, software quality assurance, modeling and simulation, data mining, and various other related R&D projects.  NEAR has successfully completed a number of projects for the FAA, NASA, NOAA, and the industry.
+
